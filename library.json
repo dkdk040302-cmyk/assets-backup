@@ -37,7 +37,40 @@
     {
       "id": "char_2a47fd6a-15fc-4ccd-8ffa-cfd92d1bc187",
       "name": "로든",
-      "images": []
+      "images": [
+        {
+          "id": "img_fbad4b52-328a-4b4a-97c8-f1eb70ddfa98",
+          "path": "assets/be/be524ba114cc4c23a8678c3a5230140e.png"
+        },
+        {
+          "id": "img_589b2b0b-53d7-4262-81f4-1cd5796a3f02",
+          "path": "assets/ac/ac4637e11365443cba1530b11866a004.png"
+        },
+        {
+          "id": "img_b0a76405-7ed9-4fc4-83f4-1a5503198bec",
+          "path": "assets/56/56afd97995574db2ba92656359d181f9.png"
+        },
+        {
+          "id": "img_76c3a921-07c1-472b-b587-df3d52342f57",
+          "path": "assets/65/653277c9adbf444baec96093f38fbb96.png"
+        },
+        {
+          "id": "img_ca1b294a-0adf-4cfe-9859-1ad3e959c5ec",
+          "path": "assets/22/22c5e2477ee34b4baf466980464a3a2c.png"
+        },
+        {
+          "id": "img_74827eb9-644f-4903-bcf8-930264dcd317",
+          "path": "assets/41/41ee542fb004401ca73312561b3ae984.png"
+        },
+        {
+          "id": "img_1659460a-544c-47a3-be13-634393b52bcd",
+          "path": "assets/b7/b7d782b0f2624ccda80fdd684d562f15.png"
+        },
+        {
+          "id": "img_8910981c-e7a1-4e78-8ac2-1a3df594ff95",
+          "path": "assets/46/4667da2cb3474ee5ab4df5f0488a6e67.png"
+        }
+      ]
     }
   ],
   "activeCharId": "char_2a47fd6a-15fc-4ccd-8ffa-cfd92d1bc187"
