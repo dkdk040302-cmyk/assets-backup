@@ -1,77 +1,10 @@
 {
   "characters": [
     {
-      "id": "char_5b8b9298-642e-460e-8c50-a0c8f0971645",
-      "name": "산군",
-      "images": [
-        {
-          "id": "img_c4e92f6e-e86e-488a-af9b-65dd0ee9ce1b",
-          "path": "assets/5e/5e193209ddbe49a288b7d9da504eeca5.png"
-        },
-        {
-          "id": "img_21ab7cfb-3b3c-4c46-aa87-8d835a51bea0",
-          "path": "assets/06/06e154ff94544900a8732cb7e3f7e472.png"
-        },
-        {
-          "id": "img_5eca84d1-509b-472b-b12c-82a4437404dc",
-          "path": "assets/62/62b73fc58f36404880bd8c69522f3ef8.png"
-        },
-        {
-          "id": "img_b66cb5b9-09d2-4b4c-b550-bd40604cacd7",
-          "path": "assets/fa/fa91f32903b94296912f7a8590b8c0a4.png"
-        },
-        {
-          "id": "img_931e214a-8f14-4264-93a4-1473f1450fff",
-          "path": "assets/11/11fa9ed7778d42d294921c79ef5e9118.png"
-        },
-        {
-          "id": "img_5ca97fdd-1534-4d3e-b29d-cdf368dabfdf",
-          "path": "assets/60/60c994b224104aa8a3d1b9839508d7f2.png"
-        },
-        {
-          "id": "img_d52c78c8-850d-43f0-87c1-56687a919e0d",
-          "path": "assets/ce/cee9c0065acc455a96ab0df0abcfb650.png"
-        }
-      ]
-    },
-    {
-      "id": "char_2a47fd6a-15fc-4ccd-8ffa-cfd92d1bc187",
-      "name": "로든",
-      "images": [
-        {
-          "id": "img_fbad4b52-328a-4b4a-97c8-f1eb70ddfa98",
-          "path": "assets/be/be524ba114cc4c23a8678c3a5230140e.png"
-        },
-        {
-          "id": "img_589b2b0b-53d7-4262-81f4-1cd5796a3f02",
-          "path": "assets/ac/ac4637e11365443cba1530b11866a004.png"
-        },
-        {
-          "id": "img_b0a76405-7ed9-4fc4-83f4-1a5503198bec",
-          "path": "assets/56/56afd97995574db2ba92656359d181f9.png"
-        },
-        {
-          "id": "img_76c3a921-07c1-472b-b587-df3d52342f57",
-          "path": "assets/65/653277c9adbf444baec96093f38fbb96.png"
-        },
-        {
-          "id": "img_ca1b294a-0adf-4cfe-9859-1ad3e959c5ec",
-          "path": "assets/22/22c5e2477ee34b4baf466980464a3a2c.png"
-        },
-        {
-          "id": "img_74827eb9-644f-4903-bcf8-930264dcd317",
-          "path": "assets/41/41ee542fb004401ca73312561b3ae984.png"
-        },
-        {
-          "id": "img_1659460a-544c-47a3-be13-634393b52bcd",
-          "path": "assets/b7/b7d782b0f2624ccda80fdd684d562f15.png"
-        },
-        {
-          "id": "img_8910981c-e7a1-4e78-8ac2-1a3df594ff95",
-          "path": "assets/46/4667da2cb3474ee5ab4df5f0488a6e67.png"
-        }
-      ]
+      "id": "char_706a2f4d-917f-4121-af8e-3df4834bd779",
+      "name": "포코빌",
+      "images": []
     }
   ],
-  "activeCharId": "char_2a47fd6a-15fc-4ccd-8ffa-cfd92d1bc187"
+  "activeCharId": "char_706a2f4d-917f-4121-af8e-3df4834bd779"
 }
