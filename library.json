@@ -33,7 +33,12 @@
           "path": "assets/ce/cee9c0065acc455a96ab0df0abcfb650.png"
         }
       ]
+    },
+    {
+      "id": "char_2a47fd6a-15fc-4ccd-8ffa-cfd92d1bc187",
+      "name": "로든",
+      "images": []
     }
   ],
-  "activeCharId": "char_5b8b9298-642e-460e-8c50-a0c8f0971645"
+  "activeCharId": "char_2a47fd6a-15fc-4ccd-8ffa-cfd92d1bc187"
 }
