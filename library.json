@@ -3,7 +3,15 @@
     {
       "id": "char_1e4b0807-fb26-4c7c-bc13-e46b012c4e0f",
       "name": "로든",
-      "images": []
+      "images": [
+        {
+          "id": "img_65e174c8-cd50-4714-ae7c-6d6edfc8560e",
+          "url": "https://raw.githubusercontent.com/dkdk040302-cmyk/assets-backup/d3221b7dafe68ecb8a72a275aaf89fcd2bd10a79/assets/561d4c48d4404deaaf1711e283c0d755.jpg",
+          "commit": "d3221b7dafe68ecb8a72a275aaf89fcd2bd10a79",
+          "path": "assets/561d4c48d4404deaaf1711e283c0d755.jpg",
+          "createdAt": "2026-10-30T13:03:41.332Z"
+        }
+      ]
     }
   ],
   "activeCharId": "char_1e4b0807-fb26-4c7c-bc13-e46b012c4e0f"
