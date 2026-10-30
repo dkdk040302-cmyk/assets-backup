@@ -3,7 +3,36 @@
     {
       "id": "char_5b8b9298-642e-460e-8c50-a0c8f0971645",
       "name": "산군",
-      "images": []
+      "images": [
+        {
+          "id": "img_c4e92f6e-e86e-488a-af9b-65dd0ee9ce1b",
+          "path": "assets/5e/5e193209ddbe49a288b7d9da504eeca5.png"
+        },
+        {
+          "id": "img_21ab7cfb-3b3c-4c46-aa87-8d835a51bea0",
+          "path": "assets/06/06e154ff94544900a8732cb7e3f7e472.png"
+        },
+        {
+          "id": "img_5eca84d1-509b-472b-b12c-82a4437404dc",
+          "path": "assets/62/62b73fc58f36404880bd8c69522f3ef8.png"
+        },
+        {
+          "id": "img_b66cb5b9-09d2-4b4c-b550-bd40604cacd7",
+          "path": "assets/fa/fa91f32903b94296912f7a8590b8c0a4.png"
+        },
+        {
+          "id": "img_931e214a-8f14-4264-93a4-1473f1450fff",
+          "path": "assets/11/11fa9ed7778d42d294921c79ef5e9118.png"
+        },
+        {
+          "id": "img_5ca97fdd-1534-4d3e-b29d-cdf368dabfdf",
+          "path": "assets/60/60c994b224104aa8a3d1b9839508d7f2.png"
+        },
+        {
+          "id": "img_d52c78c8-850d-43f0-87c1-56687a919e0d",
+          "path": "assets/ce/cee9c0065acc455a96ab0df0abcfb650.png"
+        }
+      ]
     }
   ],
   "activeCharId": "char_5b8b9298-642e-460e-8c50-a0c8f0971645"
