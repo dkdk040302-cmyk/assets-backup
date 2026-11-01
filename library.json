@@ -75,7 +75,12 @@
     {
       "id": "char_9fde486b-9fb3-4679-950b-21a1aef56c94",
       "name": "잡",
-      "images": []
+      "images": [
+        {
+          "id": "img_7d4928e2-617a-4962-b5fc-ed7033753580",
+          "path": "assets/char_9fde486b-9fb3-4679-950b-21a1aef56c94/581707beb9f44da4b4432da5ba78d36a.png"
+        }
+      ]
     }
   ],
   "activeCharId": "char_9fde486b-9fb3-4679-950b-21a1aef56c94"
