@@ -71,7 +71,12 @@
           "path": "assets/char_5205b8cf-64f6-48be-82ab-3245b639f16d/7424440bf21a4b6db76bb77cf7630acc.png"
         }
       ]
+    },
+    {
+      "id": "char_9fde486b-9fb3-4679-950b-21a1aef56c94",
+      "name": "잡",
+      "images": []
     }
   ],
-  "activeCharId": "char_5205b8cf-64f6-48be-82ab-3245b639f16d"
+  "activeCharId": "char_9fde486b-9fb3-4679-950b-21a1aef56c94"
 }
