@@ -21,7 +21,40 @@
     {
       "id": "char_5205b8cf-64f6-48be-82ab-3245b639f16d",
       "name": "오늘도지하는맑음",
-      "images": []
+      "images": [
+        {
+          "id": "img_e07fca30-8a33-4f58-a933-9885566f2171",
+          "path": "assets/char_5205b8cf-64f6-48be-82ab-3245b639f16d/635f03b94ade4e18b65bd488450d7cfd.png"
+        },
+        {
+          "id": "img_d273b548-45db-4be9-b3c9-3710c82f199d",
+          "path": "assets/char_5205b8cf-64f6-48be-82ab-3245b639f16d/2526593699684abc8fdc12db835f936c.png"
+        },
+        {
+          "id": "img_bbe900be-1fd7-4825-acc4-4fcaedfa6f20",
+          "path": "assets/char_5205b8cf-64f6-48be-82ab-3245b639f16d/fe574d6c98694a2f99162bd12e99b24f.png"
+        },
+        {
+          "id": "img_13781f5a-cdcb-4ff3-810f-2854d5c151dd",
+          "path": "assets/char_5205b8cf-64f6-48be-82ab-3245b639f16d/b7def0c8f5a24bb09617d7cf9fd738be.png"
+        },
+        {
+          "id": "img_ac4a96ff-35db-450d-aba5-92c0c3805246",
+          "path": "assets/char_5205b8cf-64f6-48be-82ab-3245b639f16d/a7f6491a9a66470c9ef241b0e34fc601.png"
+        },
+        {
+          "id": "img_3ae272bf-5750-4b62-8224-ef36c3773eaa",
+          "path": "assets/char_5205b8cf-64f6-48be-82ab-3245b639f16d/b36cd0ad2e0a464991546171ba9b050b.png"
+        },
+        {
+          "id": "img_d089214c-7bf0-47bd-bcbf-c73a03f72eb4",
+          "path": "assets/char_5205b8cf-64f6-48be-82ab-3245b639f16d/78a0be16686a4ee085651827c01dd0b4.png"
+        },
+        {
+          "id": "img_8526c36e-50b2-41df-a273-75efb825c8f9",
+          "path": "assets/char_5205b8cf-64f6-48be-82ab-3245b639f16d/0792da6ab0464d97945430b281e1f9d1.png"
+        }
+      ]
     }
   ],
   "activeCharId": "char_5205b8cf-64f6-48be-82ab-3245b639f16d"
