@@ -17,7 +17,12 @@
           "path": "assets/char_84ea6c9f-3e6f-4349-8f6d-bc8920beb142/be0a7bbdd248455495d4f710daf449e0.png"
         }
       ]
+    },
+    {
+      "id": "char_5205b8cf-64f6-48be-82ab-3245b639f16d",
+      "name": "오늘도지하는맑음",
+      "images": []
     }
   ],
-  "activeCharId": "char_84ea6c9f-3e6f-4349-8f6d-bc8920beb142"
+  "activeCharId": "char_5205b8cf-64f6-48be-82ab-3245b639f16d"
 }
