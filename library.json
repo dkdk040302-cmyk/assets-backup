@@ -109,7 +109,16 @@
     {
       "id": "char_d324b7d2-5428-4519-87af-edcddb778abb",
       "name": "차경대",
-      "images": []
+      "images": [
+        {
+          "id": "img_5c9a5b11-c565-4648-9103-b3d97ad2effa",
+          "path": "assets/char_d324b7d2-5428-4519-87af-edcddb778abb/d42790cbdd8f44efba367bc704e3cce5.png"
+        },
+        {
+          "id": "img_91989b95-5756-4658-ae7c-6989f8e8f41c",
+          "path": "assets/char_d324b7d2-5428-4519-87af-edcddb778abb/da40004ae3a34a8f9c4622419996599c.png"
+        }
+      ]
     }
   ],
   "activeCharId": "char_d324b7d2-5428-4519-87af-edcddb778abb"
