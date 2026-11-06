@@ -105,7 +105,12 @@
           "path": "assets/char_9fde486b-9fb3-4679-950b-21a1aef56c94/30de8bd1a6d74b6f811ba80fc58c0810.png"
         }
       ]
+    },
+    {
+      "id": "char_d324b7d2-5428-4519-87af-edcddb778abb",
+      "name": "차경대",
+      "images": []
     }
   ],
-  "activeCharId": "char_9fde486b-9fb3-4679-950b-21a1aef56c94"
+  "activeCharId": "char_d324b7d2-5428-4519-87af-edcddb778abb"
 }
