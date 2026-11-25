@@ -103,6 +103,10 @@
         {
           "id": "img_889763b7-14a6-42bd-bc6a-d57c4830834c",
           "path": "assets/char_9fde486b-9fb3-4679-950b-21a1aef56c94/30de8bd1a6d74b6f811ba80fc58c0810.png"
+        },
+        {
+          "id": "img_2f10fd21-2c43-448d-9e1f-e06e9d0b624e",
+          "path": "assets/char_9fde486b-9fb3-4679-950b-21a1aef56c94/50ac4faa02ea4a9d809382bee1c16bf9.png"
         }
       ]
     },
@@ -121,5 +125,5 @@
       ]
     }
   ],
-  "activeCharId": "char_d324b7d2-5428-4519-87af-edcddb778abb"
+  "activeCharId": "char_9fde486b-9fb3-4679-950b-21a1aef56c94"
 }
